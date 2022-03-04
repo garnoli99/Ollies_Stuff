@@ -12,7 +12,7 @@ class Driver:
     def __init__(self, name):
         self.name = name
 
-    def dont_do_something(self):
+    def do_something(self):
         pass
 
 
