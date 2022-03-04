@@ -6,3 +6,10 @@ class Car:
     wheels: int
     doors: int
     engine_size: float
+
+
+class Driver:
+    def __init__(self, name):
+        self.name = name
+
+
